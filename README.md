@@ -51,7 +51,7 @@ I will be posting articles and videos related to IOT ROBOTICS, Hardware and Soft
 [Github](https://github.com/ManishPoudel)
 
 
-Do Subscribe and Follow Three Minutes Before on Youtube and Instagram.
+Do Subscribe and Follow channel "Three Minutes Before" on Youtube and Instagram.
 
 
 You will also be able to add my website to your RSS reader.
