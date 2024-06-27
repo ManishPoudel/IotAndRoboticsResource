@@ -1,5 +1,26 @@
 ## This repo Contains the resources for IOT and ROBOTICS
 
+Basic IOT begginners tools requirements 
+1. Arduino (or equivalent board). (Rs 1000)
+1. Arduino Jumpers. (5 per peice)
+1. Bread board (better to buy a high quality one ) (Rs 250/ 350)
+1. Led's (Rs 5/3/4)
+1. Peizo element ( Rs 40/25)
+1. Ir sensor Module(Rs 150/ 250);
+1. 1 digit 8 segment display (Rs 50 / 100)
+1. LCD module arduino (Rs 250/350)
+1. Soil moisture sensor (Rs 250/150)
+1. Ultra sound sensor (Rs 150/200/250)
+1. L293d Motor sensor (Rs 250/350)
+1. BO yello motors (Rs 150/200/250)
+
+The above mentioned price are approx price.
+For buying these stuffs you can visit himalayansolution.com 
+OR 
+In Jamal, Osan Thes stuffs are cheaper.
+
+It is not necessary to buy all these stuff at once, but experiment with one or two device and then continue to buy others.
+ 
 Some IOT and ROBOTICS begginners project :
 
 1. [LED dimming , fading, blinking.](https://www.youtube.com/watch?v=e1FVSpkw6q4)
